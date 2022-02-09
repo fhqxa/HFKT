@@ -1,0 +1,1 @@
+python3 train.py -batch 64 -dataset cifar_fs -data_dir /home/grc/zz/datastes/ -gpu 0 -extra_dir FS_Hie_0.65_5w5s -temperature_attn 5.0 -lamb 0.5 -shot 5 -milestones 40 50 -max_epoch 60
