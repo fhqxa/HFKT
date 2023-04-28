@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Knowledge Transfer Based Hierarchical Few-shot
-Learning via Tree-structured Knowledge Graph</h1>
+  <h1>[Knowledge Transfer Based Hierarchical Few-shot
+Learning via Tree-structured Knowledge Graph](https://link.springer.com/article/10.1007/s13042-022-01640-5)</h1>
 </div>
 
 
@@ -57,6 +57,21 @@ Our project references the codes in the following repos:
 * Ramachandran _et al_., [Stand-alone self-attention](https://github.com/leaderj1001/Stand-Alone-Self-Attention)
 * Huang _et al_., [DCCNet](https://github.com/ShuaiyiHuang/DCCNet)
 * Yang _et al_., [VCN](https://github.com/gengshan-y/VCN)
+
+## :scroll: Citing HFFDK
+If you find our code or paper useful to your research work, please consider citing our work using the following bibtex:
+```
+@article{zhang2023knowledge,
+  title={Knowledge transfer based hierarchical few-shot learning via tree-structured knowledge graph},
+  author={Zhang, Zhong and Wu, Zhiping and Zhao, Hong and Hu, Minjie},
+  journal={International Journal of Machine Learning and Cybernetics},
+  volume={14},
+  number={1},
+  pages={281--294},
+  year={2023},
+  publisher={Springer}
+}
+```
 
 ## :love_letter: Acknowledgement
 We adopted the main code bases from [ReNet](https://github.com/dahyun-kang/renet), and we really appreciate it :smiley:.
