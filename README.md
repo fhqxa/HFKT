@@ -1,6 +1,6 @@
 <div align="center">
   <h1> 
-  [Knowledge Transfer Based Hierarchical Few-shot Learning via Tree-structured Knowledge Graph](https://link.springer.com/article/10.1007/s13042-022-01640-5) 
+  <a href="https://link.springer.com/article/10.1007/s13042-022-01640-5">Knowledge Transfer Based Hierarchical Few-shot Learning via Tree-structured Knowledge Graph</a>
   </h1>
 </div>
 
